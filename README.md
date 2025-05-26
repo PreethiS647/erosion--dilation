@@ -57,16 +57,20 @@ plt.imshow(img_erode,cmap='gray')
 
 ### Display the input Image
 
-![image](https://github.com/user-attachments/assets/62f96950-828a-4388-bc62-7668604039fb)
+![image](https://github.com/user-attachments/assets/094d28bf-b7b9-4ec9-9902-31baaf8dddbd)
+
 
 
 ### Display the Dilated Image
 
-![image](https://github.com/user-attachments/assets/16e52838-fcc7-4c65-be71-ece0ad15e215)
+![image](https://github.com/user-attachments/assets/fcb02d09-e5ab-40f1-8b1f-ff50762ec426)
+
 
 ### Display the Eroded Image
 
-![image](https://github.com/user-attachments/assets/7981c8bd-7b7c-4044-b07c-54257430638a)
+
+![image](https://github.com/user-attachments/assets/c8963e6b-94c5-46b7-bdc7-aef7401ef2c6)
+
 
 
 ## Result
